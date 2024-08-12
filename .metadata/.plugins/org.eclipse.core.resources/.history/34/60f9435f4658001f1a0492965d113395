@@ -1,0 +1,13 @@
+package com.aws;
+
+public class DemoAwsFeatures {
+	public static void main (String args[]) {
+		System.out.println("Hello World!!!");
+		sayBye();
+	}
+	
+	public static void sayBye() {
+		System.out.println("Bye Hello World...");
+	}
+
+}
